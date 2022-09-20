@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="96"
+    android:viewportHeight="96"
+    android:width="96dp"
+    android:height="96dp">
+    <path
+        android:pathData="M8 20L87.5 20L88 20.5L88 28L8.5 28L8 27.5L8 20Z"
+        android:fillColor="#ffffff"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M8 44L87.5 44L88 44.5L88 52L8.5 52L8 51.5L8 44Z"
+        android:fillColor="#ffffff"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M8 68L87.5 68L88 68.5L88 76L8.5 76L8 75.5L8 68Z"
+        android:fillColor="#ffffff"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="1" />
+</vector>

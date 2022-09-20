@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="70.0dip"
+        android:width="70.0dip"
+        android:drawable="@android:color/transparent"/>
+    <item
+        android:gravity="center">
+        <shape
+            android:shape="oval">
+            <size
+                android:height="120.0dip"
+                android:width="120.0dip"/>
+            <solid
+                android:color="@android:color/white"/>
+			<stroke android:width="2.0dip"
+				android:color="@color/colorPrimary" />
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="90.0dip"
+        android:width="90.0dip"
+        android:drawable="@drawable/ic_qs_no_internet_airplane"/>
+</layer-list>
